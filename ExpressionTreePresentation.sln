@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionTreePresentation.Business", "ExpressionTreePresentation.Business\ExpressionTreePresentation.Business.csproj", "{BEA6F66F-73B2-4DA8-B91D-93A68739A73F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{626CF887-81E6-4759-9270-C72DACFB9E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{626CF887-81E6-4759-9270-C72DACFB9E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{626CF887-81E6-4759-9270-C72DACFB9E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA6F66F-73B2-4DA8-B91D-93A68739A73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA6F66F-73B2-4DA8-B91D-93A68739A73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA6F66F-73B2-4DA8-B91D-93A68739A73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA6F66F-73B2-4DA8-B91D-93A68739A73F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
